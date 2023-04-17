@@ -16,3 +16,7 @@ pytz==2022.7.1
 six==1.16.0
 tenacity==8.2.1
 Werkzeug==2.2.3
+pickle
+catboost
+lightgbm
+sklearn
